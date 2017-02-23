@@ -24,6 +24,7 @@ The List
 | McAfee ePolicy Orchestrator Post-Auth Privileged Remote Code Execution      | https://wikileaks.org/hackingteam/emails/emailid/45441 | 13-023      |           1 |           0 |       Brokered |
 | McAfee ePolicy Orchestrator Post-Auth Privileged Remote Code Execution      | https://wikileaks.org/hackingteam/emails/emailid/45441 | 13-024      |           1 |           0 |       Brokered |
 | ESET NOD32 Antivirus and ESET Smart Security Remote Pre-auth Code Execution | https://wikileaks.org/hackingteam/emails/emailid/45441 | 2010-0021   |           0 |           1 | Brokered, Sold |
+| Symantec AntiVirus Remote Stack Buffer Overflow  | http://www.securityfocus.com/news/11426 | CVE-2006-2630   |           0 |           1 | Exploited ItW |
 
 ### Honorable mentions
 
