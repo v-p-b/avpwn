@@ -29,6 +29,7 @@ The List
 | Sophos Virus Removal Tool DLL Hijack | https://wikileaks.org/ciav7p1/cms/page_27263043.html | Fine Dining  |           0 |           1 | CIA collection |
 | Kaspersky TDSS Killer Portable DLL Hijack | https://wikileaks.org/ciav7p1/cms/page_27492393.html | Fine Dining  |           0 |           1 | CIA collection |
 | ClamWin Portable DLL Hijack | https://wikileaks.org/ciav7p1/cms/page_27262995.html | Fine Dining  |           0 |           1 | CIA collection |
+| Kaspersky ?? SUID command injection | https://hackmd.io/s/r1gLMUUpx | evolvingstrategy  |           0 |           1 | EQGRP exploit leaked by Shadow Brokers  |
 
 ### Honorable mentions
 
