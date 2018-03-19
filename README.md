@@ -25,11 +25,12 @@ The List
 | McAfee ePolicy Orchestrator Post-Auth Privileged Remote Code Execution      | https://wikileaks.org/hackingteam/emails/emailid/45441 | 13-024      |           1 |           0 |       Brokered |
 | ESET NOD32 Antivirus and ESET Smart Security Remote Pre-auth Code Execution | https://wikileaks.org/hackingteam/emails/emailid/45441 | 2010-0021   |           0 |           1 | Brokered, Sold |
 | Symantec AntiVirus Remote Stack Buffer Overflow  | http://www.securityfocus.com/news/11426 | CVE-2006-2630   |           0 |           1 | Exploited ItW |
-| McAfee Stinger Portable DLL Hijack  | https://wikileaks.org/ciav7p1/cms/page_27492400.html | Fine Dining  |           0 |           1 | CIA collection |
-| Sophos Virus Removal Tool DLL Hijack | https://wikileaks.org/ciav7p1/cms/page_27263043.html | Fine Dining  |           0 |           1 | CIA collection |
-| Kaspersky TDSS Killer Portable DLL Hijack | https://wikileaks.org/ciav7p1/cms/page_27492393.html | Fine Dining  |           0 |           1 | CIA collection |
+| McAfee Stinger Portable DLL Sideloading  | https://wikileaks.org/ciav7p1/cms/page_27492400.html | Fine Dining  |           0 |           1 | CIA collection |
+| Sophos Virus Removal Tool DLL sideloading | https://wikileaks.org/ciav7p1/cms/page_27263043.html | Fine Dining  |           0 |           1 | CIA collection |
+| Kaspersky TDSS Killer Portable DLL Sideloading | https://wikileaks.org/ciav7p1/cms/page_27492393.html | Fine Dining  |           0 |           1 | CIA collection |
 | ClamWin Portable DLL Hijack | https://wikileaks.org/ciav7p1/cms/page_27262995.html | Fine Dining  |           0 |           1 | CIA collection |
 | Kaspersky ?? SUID command injection | https://hackmd.io/s/r1gLMUUpx | evolvingstrategy  |           0 |           1 | EQGRP exploit leaked by Shadow Brokers  |
+| Symantec rastlsc.exe DLL side-loading | https://www.welivesecurity.com/wp-content/uploads/2018/03/ESET_OceanLotus.pdf| OceanLotus | 0 | 1 | ESET report |
 
 ### Honorable mentions
 
