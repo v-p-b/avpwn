@@ -32,6 +32,15 @@ The List
 | Kaspersky ?? SUID command injection | https://hackmd.io/s/r1gLMUUpx | evolvingstrategy  |           0 |           1 | EQGRP exploit leaked by Shadow Brokers  |
 | Symantec rastlsc.exe DLL side-loading | https://www.welivesecurity.com/wp-content/uploads/2018/03/ESET_OceanLotus.pdf| OceanLotus | 0 | 1 | ESET report |
 
+### Immortal exploits
+
+The following list contains exploits of ["immortal" vulnerabilities](https://www.rand.org/pubs/research_reports/RR1751.html) - ones that for some reason can't be fixed by the vendor.
+
+| Name                                                                        | Link                                                   | Internal ID | Server Side | Client Side | Known Incident |
+|-----------------------------------------------------------------------------|--------------------------------------------------------|-------------|-------------|-------------|----------------|
+| Avast aswSnx.sys Kernel Driver 11.1.2253 - Memory Corruption Privilege Escalation | https://artemonsecurity.blogspot.com/2016/10/remsec-driver-analysis-agnitum-driver.html https://twitter.com/cherepanov74/status/762654147841781760 | N/A | 0 | 1 | Remsec / Cremes malware |
+| Agnitum Sandbox.sys Kernel Driver Arbitrary DLL Loading | https://artemonsecurity.blogspot.com/2016/10/remsec-driver-analysis-agnitum-driver.html https://twitter.com/cherepanov74/status/762654147841781760 | N/A | 0 | 1 | Remsec / Cremes malware |
+
 ### Honorable mentions
 
 * As of November 2016. Zerodium (a prominent vulnerability broker) [is offering](https://web.archive.org/web/20161108134847/http://zerodium.com/program.html) up to $40.000 for Antivirus LPE/RCE
