@@ -31,6 +31,7 @@ The List
 | ClamWin Portable DLL Hijack | https://wikileaks.org/ciav7p1/cms/page_27262995.html | Fine Dining  |           0 |           1 | CIA collection |
 | Kaspersky ?? SUID command injection | https://hackmd.io/s/r1gLMUUpx | evolvingstrategy  |           0 |           1 | EQGRP exploit leaked by Shadow Brokers  |
 | Symantec rastlsc.exe DLL side-loading | https://www.welivesecurity.com/wp-content/uploads/2018/03/ESET_OceanLotus.pdf| OceanLotus | 0 | 1 | ESET report |
+| Trend Micro Office Scan server ZIP path traversal | https://www.zdnet.com/article/trend-micro-antivirus-zero-day-used-in-mitsubishi-electric-hack/ | CVE-2019-18187 | 1 | 0 | Mitsubishi Electric |
 
 ### Immortal exploits
 
