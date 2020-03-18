@@ -32,6 +32,8 @@ The List
 | Kaspersky ?? SUID command injection | https://hackmd.io/s/r1gLMUUpx | evolvingstrategy  |           0 |           1 | EQGRP exploit leaked by Shadow Brokers  |
 | Symantec rastlsc.exe DLL side-loading | https://www.welivesecurity.com/wp-content/uploads/2018/03/ESET_OceanLotus.pdf| OceanLotus | 0 | 1 | ESET report |
 | Trend Micro Office Scan server ZIP path traversal | https://www.zdnet.com/article/trend-micro-antivirus-zero-day-used-in-mitsubishi-electric-hack/ | CVE-2019-18187 | 1 | 0 | Mitsubishi Electric |
+| Trend Micro Apex One and OfficeScan migration tool RCE | https://www.darkreading.com/vulnerabilities---threats/trend-micro-patches-two-zero-days-under-attack/d/d-id/1337338 https://success.trendmicro.com/solution/000245571 https://www.tenable.com/blog/cve-2020-8467-cve-2020-8468-vulnerabilities-in-trend-micro-apex-one-and-officescan-exploited-in | CVE-2020-8467 | 1 | 0 | N/A |
+| Trend Micro Apex One and OfficeScan content validation escape | https://www.darkreading.com/vulnerabilities---threats/trend-micro-patches-two-zero-days-under-attack/d/d-id/1337338 https://success.trendmicro.com/solution/000245571 https://www.tenable.com/blog/cve-2020-8467-cve-2020-8468-vulnerabilities-in-trend-micro-apex-one-and-officescan-exploited-in | CVE-2020-8468 | 0 | 1 | N/A |
 
 ### Immortal exploits
 
