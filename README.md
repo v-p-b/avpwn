@@ -34,6 +34,7 @@ The List
 | Trend Micro Office Scan server ZIP path traversal | https://www.zdnet.com/article/trend-micro-antivirus-zero-day-used-in-mitsubishi-electric-hack/ | CVE-2019-18187 | 1 | 0 | Mitsubishi Electric |
 | Trend Micro Apex One and OfficeScan migration tool RCE | https://www.darkreading.com/vulnerabilities---threats/trend-micro-patches-two-zero-days-under-attack/d/d-id/1337338 https://success.trendmicro.com/solution/000245571 https://www.tenable.com/blog/cve-2020-8467-cve-2020-8468-vulnerabilities-in-trend-micro-apex-one-and-officescan-exploited-in | CVE-2020-8467 | 1 | 0 | N/A |
 | Trend Micro Apex One and OfficeScan content validation escape | https://www.darkreading.com/vulnerabilities---threats/trend-micro-patches-two-zero-days-under-attack/d/d-id/1337338 https://success.trendmicro.com/solution/000245571 https://www.tenable.com/blog/cve-2020-8467-cve-2020-8468-vulnerabilities-in-trend-micro-apex-one-and-officescan-exploited-in | CVE-2020-8468 | 0 | 1 | N/A |
+| Windows Defender | https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1647 | CVE-2021-1647 | 0 | 1 | Exploitation was detected before fix was released |
 
 ### Immortal exploits
 
