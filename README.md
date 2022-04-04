@@ -37,6 +37,7 @@ The List
 | Windows Defender [buffer overflow](https://snort.org/advisories/talos-rules-2021-01-12) | https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1647 | CVE-2021-1647 | 0 | 1 | Exploitation was detected before fix was released. [Snort rules](https://snort.org/advisories/talos-rules-2021-01-12) detect shellcode. [May be related](https://threatpost.com/critical-microsoft-defender-bug-exploited/162992/) to the SolarWinds breach (although this remark was deleted from ZDI's original [post](https://webcache.googleusercontent.com/search?q=cache:jJPdtnWB-4sJ:https://www.thezdi.com/blog/2021/1/12/the-january-2021-security-update-review+&cd=1&hl=hu&ct=clnk&gl=hu))|
 | Trend Micro Apex One Improper Access Control Privilege Escalation | https://www.zerodayinitiative.com/advisories/ZDI-20-1094/ | CVE-2020-24557 | 0 | 1 |  https://therecord.media/nightmare-week-for-security-vendors-now-a-trend-micro-bug-is-being-exploited-in-the-wild/ (unclear if exploitation happened before or after vendor was notified about the bug) |
 | Trend Micro Apex One Local Privilege Escalation and Arbitrary File Upload | https://success.trendmicro.com/solution/000287819 | CVE-2021-36742 CVE-2021-36741 | 1 | 1 | https://therecord.media/hackers-tried-to-exploit-two-zero-days-in-trend-micros-apex-one-edr-platform/ | 
+| Trend Micro Apex Central Arbitrary File Upload RCE| https://success.trendmicro.com/dcx/s/solution/000290678?language=en_US | CVE-2022-26871 | 1 | 0 | https://twitter.com/GossiTheDog/status/1510901921657331716 | 
 
 ### Immortal exploits
 
