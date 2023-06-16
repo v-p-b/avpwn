@@ -48,6 +48,7 @@ The following list contains exploits of ["immortal" vulnerabilities](https://www
 | Avast aswSnx.sys Kernel Driver 11.1.2253 - Memory Corruption Privilege Escalation | https://artemonsecurity.blogspot.com/2016/10/remsec-driver-analysis-agnitum-driver.html https://twitter.com/cherepanov74/status/762654147841781760 | N/A | 0 | 1 | Remsec / Cremes malware |
 | Agnitum Sandbox.sys Kernel Driver Arbitrary DLL Loading | https://artemonsecurity.blogspot.com/2016/10/remsec-driver-analysis-agnitum-driver.html https://twitter.com/cherepanov74/status/762654147841781760 | N/A | 0 | 1 | Remsec / Cremes malware |
 | AvosLocker Ransomware Variant Abuses Avast Driver File (asWarPot.sys) to Disable Anti-Virus | https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html https://www.mandiant.com/resources/blog/unc2596-cuba-ransomware https://www.microsoft.com/en-us/security/blog/2022/10/18/defenders-beware-a-case-for-post-ransomware-investigations/ | BURNTCIGAR | 0 | 1 | AvosLocker, Cuba |
+| Zemana AntiMalware/AntiLogger Driver to Disable Anti-Virus | https://voidsec.com/reverse-engineering-terminator-aka-zemana-antimalware-antilogger-driver/ | Terminator | 0 | 1 | SpyBot |
 
 
 ### Honorable mentions
