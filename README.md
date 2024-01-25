@@ -49,6 +49,7 @@ The following list contains exploits of ["immortal" vulnerabilities](https://www
 | Agnitum Sandbox.sys Kernel Driver Arbitrary DLL Loading | https://artemonsecurity.blogspot.com/2016/10/remsec-driver-analysis-agnitum-driver.html https://twitter.com/cherepanov74/status/762654147841781760 | N/A | 0 | 1 | Remsec / Cremes malware |
 | AvosLocker Ransomware Variant Abuses Avast Driver File (asWarPot.sys) to Disable Anti-Virus | https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html https://www.mandiant.com/resources/blog/unc2596-cuba-ransomware https://www.microsoft.com/en-us/security/blog/2022/10/18/defenders-beware-a-case-for-post-ransomware-investigations/ | BURNTCIGAR | 0 | 1 | AvosLocker, Cuba |
 | Zemana AntiMalware/AntiLogger Driver to Disable Anti-Virus | https://voidsec.com/reverse-engineering-terminator-aka-zemana-antimalware-antilogger-driver/ | Terminator | 0 | 1 | SpyBot |
+| Panda Memory Access Driver multiple vulnerabilities | https://news.sophos.com/en-us/2024/01/25/multiple-vulnerabilities-discovered-in-widely-used-security-driver/| CVE-2023-6330, CVE-2023-6331, CVE-2023-6332 | 0 | 1 | Red Team used 0-day | 
 
 
 ### Honorable mentions
