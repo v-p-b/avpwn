@@ -40,6 +40,7 @@ The List
 | Trend Micro Apex Central Arbitrary File Upload RCE| https://success.trendmicro.com/dcx/s/solution/000290678?language=en_US | CVE-2022-26871 | 1 | 0 | https://twitter.com/GossiTheDog/status/1510901921657331716 | 
 | eScan insecure update MitM leads to RCE | https://decoded.avast.io/janrubin/guptiminer-hijacking-antivirus-updates-for-distributing-backdoors-and-casual-mining/ | N/A | 0 | 1 | https://decoded.avast.io/janrubin/guptiminer-hijacking-antivirus-updates-for-distributing-backdoors-and-casual-mining/ |
 
+
 ### Immortal exploits
 
 The following list contains exploits of ["immortal" vulnerabilities](https://www.rand.org/pubs/research_reports/RR1751.html) - ones that for some reason can't be fixed by the vendor.
@@ -48,10 +49,12 @@ The following list contains exploits of ["immortal" vulnerabilities](https://www
 |-----------------------------------------------------------------------------|--------------------------------------------------------|-------------|-------------|-------------|----------------|
 | Avast aswSnx.sys Kernel Driver 11.1.2253 - Memory Corruption Privilege Escalation | https://artemonsecurity.blogspot.com/2016/10/remsec-driver-analysis-agnitum-driver.html https://twitter.com/cherepanov74/status/762654147841781760 | N/A | 0 | 1 | Remsec / Cremes malware |
 | Agnitum Sandbox.sys Kernel Driver Arbitrary DLL Loading | https://artemonsecurity.blogspot.com/2016/10/remsec-driver-analysis-agnitum-driver.html https://twitter.com/cherepanov74/status/762654147841781760 | N/A | 0 | 1 | Remsec / Cremes malware |
-| AvosLocker Ransomware Variant Abuses Avast Driver File (asWarPot.sys) to Disable Anti-Virus | https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html https://www.mandiant.com/resources/blog/unc2596-cuba-ransomware https://www.microsoft.com/en-us/security/blog/2022/10/18/defenders-beware-a-case-for-post-ransomware-investigations/ | BURNTCIGAR | 0 | 1 | AvosLocker, Cuba |
-| Zemana AntiMalware/AntiLogger Driver to Disable Anti-Virus | https://voidsec.com/reverse-engineering-terminator-aka-zemana-antimalware-antilogger-driver/ | Terminator | 0 | 1 | SpyBot |
+| AvosLocker Ransomware Variant Abuses Avast Driver File (asWarPot.sys) to Disable Anti-Virus [1] | https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html https://www.mandiant.com/resources/blog/unc2596-cuba-ransomware https://www.microsoft.com/en-us/security/blog/2022/10/18/defenders-beware-a-case-for-post-ransomware-investigations/ | BURNTCIGAR | 0 | 1 | AvosLocker, Cuba |
+| Zemana AntiMalware/AntiLogger Driver to Disable Anti-Virus [1] | https://voidsec.com/reverse-engineering-terminator-aka-zemana-antimalware-antilogger-driver/ | Terminator | 0 | 1 | SpyBot |
 | Panda Memory Access Driver multiple vulnerabilities | https://news.sophos.com/en-us/2024/01/25/multiple-vulnerabilities-discovered-in-widely-used-security-driver/| CVE-2023-6330, CVE-2023-6331, CVE-2023-6332 | 0 | 1 | Red Team used 0-day | 
+| Avast Anti-Rootkit driver abuse for process termination [1] | https://www.trellix.com/blogs/research/when-guardians-become-predators-how-malware-corrupts-the-protectors/ | N/A | 0 | 1 | Unspecified malware |
 
+[1] Abuse of legitimate functionality, admin->kernel is not a security boundary
 
 ### Honorable mentions
 
