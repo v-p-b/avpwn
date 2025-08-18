@@ -39,6 +39,7 @@ The List
 | Trend Micro Apex One Local Privilege Escalation and Arbitrary File Upload | https://success.trendmicro.com/solution/000287819 | CVE-2021-36742 CVE-2021-36741 | 1 | 1 | https://therecord.media/hackers-tried-to-exploit-two-zero-days-in-trend-micros-apex-one-edr-platform/ | 
 | Trend Micro Apex Central Arbitrary File Upload RCE| https://success.trendmicro.com/dcx/s/solution/000290678?language=en_US | CVE-2022-26871 | 1 | 0 | https://twitter.com/GossiTheDog/status/1510901921657331716 | 
 | eScan insecure update MitM leads to RCE | https://decoded.avast.io/janrubin/guptiminer-hijacking-antivirus-updates-for-distributing-backdoors-and-casual-mining/ | N/A | 0 | 1 | https://decoded.avast.io/janrubin/guptiminer-hijacking-antivirus-updates-for-distributing-backdoors-and-casual-mining/ |
+| Trend Micro Apex One Management Console Command Injection RCE Vulnerability  | [KA-0020652](https://success.trendmicro.com/en-US/solution/KA-0020652)  | CVE-2025-54948 | 1 | 0 | https://success.trendmicro.com/en-US/solution/KA-0020652 |
 
 
 ### Immortal exploits
