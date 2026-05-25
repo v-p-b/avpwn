@@ -41,7 +41,7 @@ The List
 | eScan insecure update MitM leads to RCE | https://decoded.avast.io/janrubin/guptiminer-hijacking-antivirus-updates-for-distributing-backdoors-and-casual-mining/ | N/A | 0 | 1 | https://decoded.avast.io/janrubin/guptiminer-hijacking-antivirus-updates-for-distributing-backdoors-and-casual-mining/ |
 | Trend Micro Apex One Management Console Command Injection RCE Vulnerability  | [KA-0020652](https://success.trendmicro.com/en-US/solution/KA-0020652)  | CVE-2025-54948 | 1 | 0 | https://success.trendmicro.com/en-US/solution/KA-0020652 |
 | Triofox Improper Access Control allows RCE by abusing anti-virus feature | https://cloud.google.com/blog/topics/threat-intelligence/triofox-vulnerability-cve-2025-12480 | CVE-2025-12480 | 0 | 1 | https://cloud.google.com/blog/topics/threat-intelligence/triofox-vulnerability-cve-2025-12480 |
-
+| Apex One and Vision One post-auth directory traversal | https://success.trendmicro.com/en-US/solution/KA-0023430 | CVE-2026-34926 | 1 | 0 | https://success.trendmicro.com/en-US/solution/KA-0023430 |
 
 ### Immortal exploits
 
@@ -55,6 +55,7 @@ The following list contains exploits of ["immortal" vulnerabilities](https://www
 | Zemana AntiMalware/AntiLogger Driver to Disable Anti-Virus [1] | https://voidsec.com/reverse-engineering-terminator-aka-zemana-antimalware-antilogger-driver/ | Terminator | 0 | 1 | SpyBot |
 | Panda Memory Access Driver multiple vulnerabilities | https://news.sophos.com/en-us/2024/01/25/multiple-vulnerabilities-discovered-in-widely-used-security-driver/| CVE-2023-6330, CVE-2023-6331, CVE-2023-6332 | 0 | 1 | Red Team used 0-day | 
 | Avast Anti-Rootkit driver abuse for process termination [1] | https://www.trellix.com/blogs/research/when-guardians-become-predators-how-malware-corrupts-the-protectors/ | N/A | 0 | 1 | Unspecified malware |
+
 
 [1] Abuse of legitimate functionality, admin->kernel is not a security boundary
 
