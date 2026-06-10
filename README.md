@@ -42,7 +42,7 @@ The List
 | Trend Micro Apex One Management Console Command Injection RCE Vulnerability  | [KA-0020652](https://success.trendmicro.com/en-US/solution/KA-0020652)  | CVE-2025-54948 | 1 | 0 | https://success.trendmicro.com/en-US/solution/KA-0020652 |
 | Triofox Improper Access Control allows RCE by abusing anti-virus feature | https://cloud.google.com/blog/topics/threat-intelligence/triofox-vulnerability-cve-2025-12480 | CVE-2025-12480 | 0 | 1 | https://cloud.google.com/blog/topics/threat-intelligence/triofox-vulnerability-cve-2025-12480 |
 | Apex One and Vision One post-auth directory traversal | https://success.trendmicro.com/en-US/solution/KA-0023430 | CVE-2026-34926 | 1 | 0 | https://success.trendmicro.com/en-US/solution/KA-0023430 |
-| Microsoft Defender Elevation of Privilege Vulnerability | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41091 | CVE-2026-41091 | 0 | 1 | https://www.zerodayinitiative.com/blog/2026/6/9/the-june-2026-security-update-review |
+
 
 ### Immortal exploits
 
@@ -57,8 +57,8 @@ The following list contains exploits of ["immortal" vulnerabilities](https://www
 | Panda Memory Access Driver multiple vulnerabilities | https://news.sophos.com/en-us/2024/01/25/multiple-vulnerabilities-discovered-in-widely-used-security-driver/| CVE-2023-6330, CVE-2023-6331, CVE-2023-6332 | 0 | 1 | Red Team used 0-day | 
 | Avast Anti-Rootkit driver abuse for process termination [1] | https://www.trellix.com/blogs/research/when-guardians-become-predators-how-malware-corrupts-the-protectors/ | N/A | 0 | 1 | Unspecified malware |
 
-
 [1] Abuse of legitimate functionality, admin->kernel is not a security boundary
+
 
 ### Honorable mentions
 
@@ -72,3 +72,5 @@ The following list contains exploits of ["immortal" vulnerabilities](https://www
   * In June 2019,  Advanced Intelligence [claimed](https://www.bleepingcomputer.com/news/security/another-hacker-selling-access-to-charity-antivirus-firm-networks/) further breaches, including Comodo.
 * [Moshen Dragon (2022)](https://www.sentinelone.com/labs/moshen-dragons-triad-and-error-approach-abusing-security-software-to-sideload-plugx-and-shadowpad/) abuses multiple AV executables for DLL sideloading to hide itself. While this is not considered a vulnerability in the affected AV software, Trend Micro [deployed](https://www.bleepingcomputer.com/news/security/trend-micro-fixes-bug-chinese-hackers-exploited-for-espionage/) some countermeasures. 
 * [eScan Supply Chain Compromise (2026)](https://www.morphisec.com/blog/critical-escan-threat-bulletin/) - "On January 20, 2026, Morphisec identified an active supply chain compromise affecting MicroWorld Technologies’ eScan antivirus product. Malicious updates were distributed through eScan’s legitimate update infrastructure, resulting in the deployment of multi-stage malware to enterprise and consumer endpoints globally.". More info on [Bleeping Computer](https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/) and [Securelist](https://securelist.com/escan-supply-chain-attack/118688/).
+* [RedSun (CVE-2026-41091)](https://deadeclipse666.blogspot.com/2026/05/july-14th.html) was disclosed and [exploited](https://www.zerodayinitiative.com/blog/2026/6/9/the-june-2026-security-update-review) before Microsoft patched it.
+
