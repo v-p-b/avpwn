@@ -42,6 +42,9 @@ The List
 | Trend Micro Apex One Management Console Command Injection RCE Vulnerability  | [KA-0020652](https://success.trendmicro.com/en-US/solution/KA-0020652)  | CVE-2025-54948 | 1 | 0 | https://success.trendmicro.com/en-US/solution/KA-0020652 |
 | Triofox Improper Access Control allows RCE by abusing anti-virus feature | https://cloud.google.com/blog/topics/threat-intelligence/triofox-vulnerability-cve-2025-12480 | CVE-2025-12480 | 0 | 1 | https://cloud.google.com/blog/topics/threat-intelligence/triofox-vulnerability-cve-2025-12480 |
 | Apex One and Vision One post-auth directory traversal | https://success.trendmicro.com/en-US/solution/KA-0023430 | CVE-2026-34926 | 1 | 0 | https://success.trendmicro.com/en-US/solution/KA-0023430 |
+| Crowdstrike Falcon 0day Privilege Escalation Vulnerability | https://github.com/msnightmare/falconflank | | 0 | 1 | -
+| GenDigital Avast Antivirus ZeroDay Elevation of Privileges Vulnerability | https://github.com/msnightmare/PrettyPrague | | 0 | 1 | -
+| Kaspersky Antivirus For Endpoint ZeroDay Elevation of Privileges Vulnerability | https://github.com/msnightmare/HardBreacher | | 0 | 1 | -
 
 
 ### Immortal exploits
