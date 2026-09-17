@@ -4,8 +4,7 @@ AVPWN
 List of real-world threats against endpoint protection software - For future reference. The list is based on public information and thus is obviously incomplete. 
 
 The list should include:
-  * Non-public 0-day exploits at the time of reference
-  * Public incidents where attackers exploited endpoint protection software 
+  * 0-day vulnerabilities in endpoint protection software exploited at the time of reference
   * Supporting public evidence should be provided for all records
 
 The list doesn't include: 
